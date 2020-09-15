@@ -32,6 +32,17 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+.publications {
+	padding: 5em 5em 3em 5em;
+	background-color: #875D94;
+    color: white;
+}
+.publications h2 {
+	color: white !important;
+}
+.publications strong {
+	color: white !important;
+}
 .justify-text {
 	text-align: justify;
 }
